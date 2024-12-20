@@ -1,0 +1,56 @@
+ITIME-3.0/
+
+├── _internal/
+
+├── documentation/
+
+│ ├── ИНСТРУКЦИЯ ПО ИНСТАЛЛЯЦИИ.pdf
+
+│ ├── ЛОГИКА РАБОТЫ.pdf
+
+│ ├── РУКОВОДСТВО ПО ЭКСПЛУТАТАЦИИ.pdf
+
+│ └── ТЕСТ-КЕЙСЫ ДЛЯ ЗАГРУЖЕННЫХ ФАЙЛОВ.pdf
+
+│ └── ТЕХНИЧЕСКОЕ ЗАДАНИЕ.pdf
+
+│ └── СТРУКТУРА ПРОЕКТА.md
+
+│ └── ЖИЗНЕННЫЙ ЦИКЛ.md
+
+├── materials/
+
+│ └── 1.mp3
+
+├── projects
+
+│ └── bud.py
+
+│ └── main.py
+
+├── tests
+
+│ └── __init__.py
+
+│ └── test_data_inserted.py
+
+│ └── test_get_enabled_clock.py
+
+│ └── test_get_question.py
+
+│ └── test_init_db.py
+
+│ └── test_update_time.py
+
+├── widjets
+
+│ └── ToogleSwitch.py
+
+│ └── __init__.py
+
+├── clock.db
+
+├── main.exe
+
+└── README.md
+
